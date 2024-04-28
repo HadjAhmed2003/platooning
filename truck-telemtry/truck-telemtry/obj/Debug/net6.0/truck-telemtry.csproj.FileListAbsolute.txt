@@ -1,0 +1,91 @@
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.csproj.AssemblyReference.cache
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.AssemblyInfoInputs.cache
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.AssemblyInfo.cs
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.csproj.CoreCompileInputs.cache
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.exe
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.deps.json
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.runtimeconfig.json
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.dll
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.pdb
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\bin\Debug\net6.0\SCSSdkClient.dll
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\bin\Debug\net6.0\SCSSdkClient.pdb
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\bin\Debug\net6.0\SCSSdkClient.xml
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.csproj.CopyComplete
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.dll
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\obj\Debug\net6.0\refint\truck-telemtry.dll
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.pdb
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.genruntimeconfig.cache
+C:\Users\AUC\Desktop\truck-telemtry\truck-telemtry\obj\Debug\net6.0\ref\truck-telemtry.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.exe
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.deps.json
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.runtimeconfig.json
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.pdb
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\SCSSdkClient.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\SCSSdkClient.pdb
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\SCSSdkClient.xml
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.csproj.AssemblyReference.cache
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.AssemblyInfoInputs.cache
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.AssemblyInfo.cs
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.csproj.CoreCompileInputs.cache
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.csproj.CopyComplete
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\obj\Debug\net6.0\refint\truck-telemtry.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.pdb
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.genruntimeconfig.cache
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\obj\Debug\net6.0\ref\truck-telemtry.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Windows.Forms.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\Accessibility.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Deployment.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Windows.Forms.xml
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\Accessibility.xml
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Deployment.xml
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AUC\Desktop\ATR Project\truck-telemtry\truck-telemtry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.exe
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.deps.json
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.runtimeconfig.json
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\truck-telemtry.pdb
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\SCSSdkClient.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Windows.Forms.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\Accessibility.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Deployment.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\SCSSdkClient.pdb
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\SCSSdkClient.xml
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Windows.Forms.xml
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\Accessibility.xml
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Deployment.xml
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.csproj.AssemblyReference.cache
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.AssemblyInfoInputs.cache
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.AssemblyInfo.cs
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.csproj.CoreCompileInputs.cache
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.csproj.CopyComplete
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\obj\Debug\net6.0\refint\truck-telemtry.dll
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.pdb
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\obj\Debug\net6.0\truck-telemtry.genruntimeconfig.cache
+C:\Users\ATR Lab\Desktop\platooning\truck-telemtry\truck-telemtry\obj\Debug\net6.0\ref\truck-telemtry.dll

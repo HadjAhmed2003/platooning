@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "truck-telemtry", "truck-telemtry\truck-telemtry.csproj", "{C498777F-6CBA-45BC-B1A4-F006768BFEC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCSSdkClient", "..\scs-sdk-plugin-V.1.12\scs-sdk-plugin-V.1.12\scs-client\C#\SCSSdkClient\SCSSdkClient.csproj", "{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C498777F-6CBA-45BC-B1A4-F006768BFEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C498777F-6CBA-45BC-B1A4-F006768BFEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C498777F-6CBA-45BC-B1A4-F006768BFEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C498777F-6CBA-45BC-B1A4-F006768BFEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA4129C4-5809-4C68-A53C-14CC479F510A}
+	EndGlobalSection
+EndGlobal
